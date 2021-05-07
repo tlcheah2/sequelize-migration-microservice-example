@@ -1,6 +1,6 @@
 # Migration Repository using Sequelizejs
 
-This repository is the summary of my article - [How I Setup Database Migration using Sequelizejs for Microservice Architecture]()
+This repository is the summary of my article - [How I Setup Database Migration using Sequelizejs for Microservice Architecture](https://tekloon.dev/how-i-setup-database-migration-using-sequelize-in-microservice-architecture)
 
 If you're intested in how to build the migration repository from scratch with step-by-step guideline, you can read the article with the link above.
 
